@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khain2k.github.io/personal-site-pages/sitemap.xml
